@@ -6,4 +6,3 @@
 
 # https://multipass.run/docs/set-up-a-graphical-interface
 
-# sudo passwd ubuntu
