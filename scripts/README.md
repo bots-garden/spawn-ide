@@ -17,7 +17,6 @@ Run `install.sh` like below:
 ```bash
 sudo adduser bob
 sudo usermod -aG sudo bob
-
 ```
 
 
